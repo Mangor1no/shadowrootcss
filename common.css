@@ -727,18 +727,18 @@
     font-size: 12px;
 }
 
-.overlay__content {
+.journal__overlay--content {
     display: flex;
     flex-direction: column;
 }
 
-.overlay__content--header {
+.journal__overlay--content--header {
     position: absolute;
     margin: 15px;
     color: #bbbbbb;
 }
 
-.overlay__content--detail {
+.journal__overlay--content--detail {
     margin: 35px 15px;
     font-size: 26px;
     line-height: 34px;
