@@ -754,6 +754,7 @@
 
 .journal__cover {
     object-fit: cover;
+    max-height: 700px;
 }
 
 .image {
